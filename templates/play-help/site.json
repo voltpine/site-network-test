@@ -1,0 +1,20 @@
+{
+  "name": "Play 帮手",
+  "tagline": "Google Play 打不开？按顺序排查",
+  "theme": "google-play",
+  "locale": "zh-CN",
+  "categories": [
+    {
+      "slug": "google-play",
+      "name": "Google Play",
+      "scene": "scene-google-play.svg",
+      "lede": "商店打不开、版本号、安装包的问题。"
+    },
+    {
+      "slug": "apk",
+      "name": "APK 安全下载",
+      "scene": "scene-apk.svg",
+      "lede": "去哪下、怎么验、怎么装。"
+    }
+  ]
+}

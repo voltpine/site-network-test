@@ -1,0 +1,32 @@
+{
+  "name": "安卓像素",
+  "tagline": "国产手机，装好谷歌服务",
+  "theme": "default",
+  "locale": "zh-CN",
+  "categories": [
+    {
+      "slug": "gms",
+      "name": "谷歌服务安装",
+      "scene": "scene-gms.svg",
+      "lede": "谷歌三件套怎么装、按品牌一步步来。"
+    },
+    {
+      "slug": "google-play",
+      "name": "Google Play",
+      "scene": "scene-google-play.svg",
+      "lede": "商店打不开、版本号、安装包的问题。"
+    },
+    {
+      "slug": "apk",
+      "name": "APK 安全下载",
+      "scene": "scene-apk.svg",
+      "lede": "去哪下、怎么验、怎么装。"
+    },
+    {
+      "slug": "vpn",
+      "name": "安卓 VPN",
+      "scene": "scene-vpn.svg",
+      "lede": "连上稳定的海外网络之后的事。"
+    }
+  ]
+}
